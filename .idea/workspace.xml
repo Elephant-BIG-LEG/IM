@@ -4,67 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eac1bee7-6a69-4e67-b13a-1a00a10d858a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0ddc462e-ce27-4a40-8ac6-c35d54688a37.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0ddc462e-ce27-4a40-8ac6-c35d54688a37/storage_v2/_src_/schema/im.JA0AAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0ddc462e-ce27-4a40-8ac6-c35d54688a37/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0ddc462e-ce27-4a40-8ac6-c35d54688a37/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0ddc462e-ce27-4a40-8ac6-c35d54688a37/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0ddc462e-ce27-4a40-8ac6-c35d54688a37/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ef7c047-01ee-442a-8ce7-505a6d8ca107.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ef7c047-01ee-442a-8ce7-505a6d8ca107/storage_v2/_src_/schema/im.JA0AAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ef7c047-01ee-442a-8ce7-505a6d8ca107/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ef7c047-01ee-442a-8ce7-505a6d8ca107/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ef7c047-01ee-442a-8ce7-505a6d8ca107/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ef7c047-01ee-442a-8ce7-505a6d8ca107/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/setting.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/common/domin/dto/WSChannelExtraDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/common/domin/vo/response/ws/WSLoginUrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/common/server/adapter/WebSocketAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/common/server/impl/WebSocketServerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/src/main/resources/application-pro.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/src/main/resources/application-test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/application-pro.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/application-test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/common/domin/dto/WSChannelExtraDTO$WSChannelExtraDTOBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/common/domin/dto/WSChannelExtraDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/common/domin/enums/WSBaseResp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/common/domin/enums/WSReqTypeEnum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/common/domin/vo/response/ws/WSLoginUrl$WSLoginUrlBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/common/domin/vo/response/ws/WSLoginUrl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/common/server/WebSocketServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/common/server/adapter/WebSocketAdapter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/common/server/impl/WebSocketServerImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/websocket/HttpHeadersHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/websocket/NettyUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/websocket/NettyWebSocket$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/websocket/NettyWebSocket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/websocket/NettyWebSocketHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatTools/target/classes/com/elephant/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/user/domin/enums/WSReqTypeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/common/domin/enums/WSReqTypeEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/user/domin/vo/request/user/WSBaseReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/common/domin/enums/WSBaseResp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/user/server/WebSocketServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/common/server/WebSocketServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/user/server/impl/WebSocketServerImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/websocket/HttpHeadersHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/websocket/HttpHeadersHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/websocket/NettyUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/websocket/NettyUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/websocket/NettyWebSocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/websocket/NettyWebSocket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/websocket/NettyWebSocketHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/websocket/NettyWebSocketHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChatTools/src/main/java/com/elephant/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatTools/src/main/java/com/elephant/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="eac1bee7-6a69-4e67-b13a-1a00a10d858a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,7 +132,7 @@
       <updated>1715764257255</updated>
       <workItem from="1732007601439" duration="10565000" />
       <workItem from="1732078508814" duration="1927000" />
-      <workItem from="1732178905135" duration="9054000" />
+      <workItem from="1732178905135" duration="9366000" />
     </task>
     <servers />
   </component>
