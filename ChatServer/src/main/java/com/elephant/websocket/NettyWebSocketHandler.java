@@ -1,9 +1,9 @@
 package com.elephant.websocket;
 
 import cn.hutool.json.JSONUtil;
-import com.elephant.user.domin.enums.WSReqTypeEnum;
-import com.elephant.user.domin.vo.request.user.WSBaseReq;
-import com.elephant.user.server.WebSocketServer;
+import com.elephant.common.domin.enums.WSReqTypeEnum;
+import com.elephant.common.domin.enums.WSBaseResp;
+import com.elephant.common.server.WebSocketServer;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;
 import io.netty.handler.codec.http.websocketx.TextWebSocketFrame;
@@ -12,12 +12,10 @@ import io.netty.handler.timeout.IdleStateEvent;
 import lombok.extern.slf4j.Slf4j;
 import cn.hutool.extra.spring.SpringUtil;
 
-import java.util.IdentityHashMap;
-
 
 /**
  * @Author: Elephant-FZY
- * @Email: 1085062843@qq.com
+ * @Email: https://github.com/Elephant-BIG-LEG
  * @ClassName: NettyWebSocketHandler
  * @Date: 2024/11/19/17:16
  * @Description: 服务端处理器
@@ -35,17 +33,17 @@ public class NettyWebSocketHandler extends SimpleChannelInboundHandler<TextWebSo
      */
     @Override
     protected void channelRead0(ChannelHandlerContext ctx, TextWebSocketFrame msg) throws Exception {
-        WSBaseReq wsBaseReq = JSONUtil.toBean(msg.text(), WSBaseReq.class);
-        WSReqTypeEnum wsReqTypeEnum = WSReqTypeEnum.of(wsBaseReq.getType());
+        WSBaseResp wsBaseResp = JSONUtil.toBean(msg.text(), WSBaseResp.class);
+        WSReqTypeEnum wsReqTypeEnum = WSReqTypeEnum.of(wsBaseResp.getType());
         switch (wsReqTypeEnum) {
             case LOGIN:
                 this.webSocketServer.handleLoginReq(ctx.channel());
-                log.info("请求二维码 = " + msg.text());
+                log.info("Request a QR code = " + msg.text());
                 break;
             case HEARTBEAT:
                 break;
             default:
-                log.info("未知类型");
+                log.info("Unknown type");
         }
     }
 
@@ -95,7 +93,7 @@ public class NettyWebSocketHandler extends SimpleChannelInboundHandler<TextWebSo
         }else if(evt instanceof IdleStateEvent){
             IdleStateEvent event = (IdleStateEvent) evt;
             if(event.state().equals(IdleStateEvent.READER_IDLE_STATE_EVENT)){
-                log.info("Tagger Leisure");
+                log.info("Read Leisure");
                 //断开连接
                 ctx.channel().close();
             }

@@ -17,9 +17,11 @@ import io.netty.handler.stream.ChunkedWriteHandler;
 import io.netty.handler.timeout.IdleStateHandler;
 import io.netty.util.concurrent.Future;
 import lombok.extern.slf4j.Slf4j;
+
+
 /**
  * @Author: Elephant-FZY
- * @Email: 1085062843@qq.com
+ * @Email: https://github.com/Elephant-BIG-LEG
  * @ClassName: NettyWebSocket
  * @Date: 2024/11/19/17:16
  * @Description: 建立服务端

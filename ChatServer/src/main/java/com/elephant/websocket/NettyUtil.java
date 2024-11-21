@@ -7,7 +7,7 @@ import io.netty.util.AttributeKey;
 
 /**
  * @Author: Elephant-FZY
- * @Email: 1085062843@qq.com
+ * @Email: https://github.com/Elephant-BIG-LEG
  * @ClassName: NettyWebSocket
  * @Date: 2024/11/19/17:16
  * @Description: 工具类

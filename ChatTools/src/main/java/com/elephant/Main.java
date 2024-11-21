@@ -2,7 +2,7 @@ package com.elephant;
 
 /**
  * @Author: Elephant-FZY
- * @Email: 1085062843@qq.com
+ * @Email: https://github.com/Elephant-BIG-LEG
  * @ClassName: ${NAME}
  * @Date: 2024/11/19/17:14
  * @Description: TODO

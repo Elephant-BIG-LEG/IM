@@ -3,6 +3,84 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eac1bee7-6a69-4e67-b13a-1a00a10d858a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0ddc462e-ce27-4a40-8ac6-c35d54688a37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0ddc462e-ce27-4a40-8ac6-c35d54688a37/storage_v2/_src_/schema/im.JA0AAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0ddc462e-ce27-4a40-8ac6-c35d54688a37/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0ddc462e-ce27-4a40-8ac6-c35d54688a37/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0ddc462e-ce27-4a40-8ac6-c35d54688a37/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0ddc462e-ce27-4a40-8ac6-c35d54688a37/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ef7c047-01ee-442a-8ce7-505a6d8ca107.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ef7c047-01ee-442a-8ce7-505a6d8ca107/storage_v2/_src_/schema/im.JA0AAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ef7c047-01ee-442a-8ce7-505a6d8ca107/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ef7c047-01ee-442a-8ce7-505a6d8ca107/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ef7c047-01ee-442a-8ce7-505a6d8ca107/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1ef7c047-01ee-442a-8ce7-505a6d8ca107/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/setting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/common/domin/dto/WSChannelExtraDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/common/domin/vo/response/ws/WSLoginUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/common/server/adapter/WebSocketAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/common/server/impl/WebSocketServerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/src/main/resources/application-pro.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/src/main/resources/application-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/application-pro.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/application-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/common/domin/dto/WSChannelExtraDTO$WSChannelExtraDTOBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/common/domin/dto/WSChannelExtraDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/common/domin/enums/WSBaseResp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/common/domin/enums/WSReqTypeEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/common/domin/vo/response/ws/WSLoginUrl$WSLoginUrlBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/common/domin/vo/response/ws/WSLoginUrl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/common/server/WebSocketServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/common/server/adapter/WebSocketAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/common/server/impl/WebSocketServerImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/websocket/HttpHeadersHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/websocket/NettyUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/websocket/NettyWebSocket$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/websocket/NettyWebSocket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatServer/target/classes/com/elephant/websocket/NettyWebSocketHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatTools/target/classes/com/elephant/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/user/domin/enums/WSReqTypeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/common/domin/enums/WSReqTypeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/user/domin/vo/request/user/WSBaseReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/common/domin/enums/WSBaseResp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/user/server/WebSocketServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/common/server/WebSocketServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/user/server/impl/WebSocketServerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/websocket/HttpHeadersHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/websocket/HttpHeadersHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/websocket/NettyUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/websocket/NettyUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/websocket/NettyWebSocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/websocket/NettyWebSocket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/websocket/NettyWebSocketHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatServer/src/main/java/com/elephant/websocket/NettyWebSocketHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatTools/src/main/java/com/elephant/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChatTools/src/main/java/com/elephant/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -14,18 +92,73 @@
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="jdkForImporter" value="21" />
+        <option name="workspaceImportForciblyTurnedOn" value="true" />
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2p3vVtN1qAr9v9vfHiHVEJpFlKO" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.sensetime.sensecode.jetbrains.raccoon.ui.RaccoonConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/星球项目/IM/ChatServer/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
-}</component>
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\星球项目\IM\ChatServer\src\main\resources" />
+      <recent name="D:\星球项目\IM" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.elephant.common.common.config" />
+      <recent name="com.elephant.common.domin.vo.response.ws" />
+      <recent name="com.elephant.common.common.utils" />
+      <recent name="com.elephant.user.common.utils" />
+      <recent name="com.elephant.user.domin.dto" />
+    </key>
+  </component>
   <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.elephant.Main" />
+      <module name="ChatServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.elephant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="lua.app" factoryName="Lua Application">
       <option name="program" value="lua.exe" />
       <option name="file" value="" />
@@ -36,14 +169,70 @@
       <option name="showConsole" value="true" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="eac1bee7-6a69-4e67-b13a-1a00a10d858a" name="Changes" comment="" />
       <created>1715764257255</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715764257255</updated>
+      <workItem from="1732007601439" duration="10565000" />
+      <workItem from="1732078508814" duration="1927000" />
+      <workItem from="1732178905135" duration="9054000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

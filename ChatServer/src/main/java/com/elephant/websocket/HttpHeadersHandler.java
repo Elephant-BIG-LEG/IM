@@ -11,7 +11,7 @@ import java.net.InetSocketAddress;
 import java.util.Optional;
 /**
  * @Author: Elephant-FZY
- * @Email: 1085062843@qq.com
+ * @Email: https://github.com/Elephant-BIG-LEG
  * @ClassName: NettyWebSocket
  * @Date: 2024/11/19/17:16
  * @Description: 请求处理器
